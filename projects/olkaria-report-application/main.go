@@ -4,7 +4,7 @@ package main
 import "fmt"
 
 /**
-Simple report that calculates the current power capacity feeding feeding grid
+Simple report that calculates the current power capacity feeding grid
 Compare it with current load and check on which it is utilized
 */
 
